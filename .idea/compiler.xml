@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MS1-User" />
+        <module name="MS2-IncidentNeeds" />
+        <module name="MS6-Association" />
+        <module name="MS5-ResourceDistribution" />
+        <module name="MS7-Transport" />
+        <module name="MS4-DonationCampaign" />
+        <module name="MS3-LocationZone" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MS1-User" options="-parameters" />
+      <module name="MS2-IncidentNeeds" options="-parameters" />
+      <module name="MS3-LocationZone" options="-parameters" />
+      <module name="MS4-DonationCampaign" options="-parameters" />
+      <module name="MS5-ResourceDistribution" options="-parameters" />
+      <module name="MS6-Association" options="-parameters" />
+      <module name="MS7-Transport" options="-parameters" />
+    </option>
+  </component>
+</project>

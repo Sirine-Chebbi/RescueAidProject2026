@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Backend/MS1-User/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/MS2-IncidentNeeds/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/MS3-LocationZone/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/MS4-DonationCampaign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/MS5-ResourceDistribution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/MS6-Association/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/MS7-Transport/src/main/java" charset="UTF-8" />
+  </component>
+</project>
