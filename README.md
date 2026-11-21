@@ -58,10 +58,10 @@ The system consists of **7 independent microservices**, each responsible for a s
 | **MS1 – User Service** | `8081` | User accounts, authentication, JWT and role management | Entire Team |
 | **MS2 – Incident Service** | `8082` | Incident reporting, victim needs assessment and priority scoring | Chebbi Sirine |
 | **MS3 – Location Service** | `8083` | Geographic information, risk zones and intervention locations | Taouai Maryem |
-| **MS4 – Donation Service** | `8084` | Donation campaigns, financial contributions and material donations | Zarai Eya |
-| **MS5 – Resource Service** | `8085` | Warehouse inventory, shortage alerts and resource allocation | Dridi Tassnim |
+| **MS4 – Donation Service** | `8084` | Donation campaigns, financial contributions and material donations | Dridi Tassnim |
+| **MS5 – Resource Service** | `8085` | Warehouse inventory, shortage alerts and resource allocation | Meddeb Moemen |
 | **MS6 – Association Service** | `8086` | NGO registry, specializations, availability and team recommendations | Younes Mezen |
-| **MS7 – Transport Service** | `8087` | Vehicle fleet, drivers, evacuation and delivery route planning | Meddeb Moemen |
+| **MS7 – Transport Service** | `8087` | Vehicle fleet, drivers, evacuation and delivery route planning | Zarai Eya |
 | **API Gateway** | `8080` | Central entry point, request routing and JWT validation | Entire Team |
 
 ### 🔐 Security & Authentication
