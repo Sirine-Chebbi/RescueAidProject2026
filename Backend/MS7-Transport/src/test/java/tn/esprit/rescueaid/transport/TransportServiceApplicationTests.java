@@ -1,10 +1,10 @@
-package tn.esprit.ms7transport;
+package tn.esprit.rescueaid.transport;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Ms7TransportApplicationTests {
+class TransportServiceApplicationTests {
 
     @Test
     void contextLoads() {
